@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lewis Dieselgun
+* source:	https://sketchfab.com/3d-models/lewis-dieselgun-0a84a41e03304eb38cdbe1cea5c23ed6
+* author:	Sobolev_Maxim (https://sketchfab.com/Sobolev_Maxim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lewis Dieselgun" (https://sketchfab.com/3d-models/lewis-dieselgun-0a84a41e03304eb38cdbe1cea5c23ed6) by Sobolev_Maxim (https://sketchfab.com/Sobolev_Maxim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
